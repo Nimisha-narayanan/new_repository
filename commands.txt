@@ -5,3 +5,6 @@ git add -A
 git commit -m "text"
 git init
 git status
+git remote add origin https://github.com/Nimisha-narayanan/new_repository.git
+git remote -v
+git push origin master
